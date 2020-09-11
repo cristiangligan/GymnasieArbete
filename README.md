@@ -5,6 +5,5 @@ This consist in the following:
 - C# beginner course
 - C# intermediate course
 - C# advance course
-- Xamarin forms course
 - more advance git and basic code review with merge requests
 - more advance code reiview with Gerrit
