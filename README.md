@@ -1,4 +1,4 @@
-# GymnasieArbeteLearning
+# GymnasieArbete
 This repository is for learning part of the GymnasieArbete project.
 This consist in the following:
 - learn basics about how to use github and git
